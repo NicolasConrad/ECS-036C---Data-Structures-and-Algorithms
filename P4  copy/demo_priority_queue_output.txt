@@ -1,0 +1,28 @@
+true
+(5,DD)
+(8,CC) (10,AA)
+(13,BB) 
+-----
+(3,EE)
+(5,DD) (10,AA)
+(13,BB) (8,CC) 
+Min: 3 EE
+-----
+(1,FF)
+(5,DD) (3,EE)
+(13,BB) (8,CC) (10,AA) (7,GG)
+Min: 1 FF
+=======
+true
+(3,EE)
+(5,DD) (7,GG)
+(13,BB) (8,CC) (10,AA) 
+-----
+(5,DD)
+(8,CC) (7,GG)
+(13,BB) (10,AA) 
+Min: 5 DD
+$$$$$$$
+true
+true
+false

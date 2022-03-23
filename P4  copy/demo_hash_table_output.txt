@@ -1,0 +1,152 @@
+7 0
+-------
+Bucket 0: (empty)
+Bucket 1: (empty)
+Bucket 2: (empty)
+Bucket 3: (empty)
+Bucket 4: (empty)
+Bucket 5: (empty)
+Bucket 6: (empty)
+&&&&&&&
+true
+true
+true
+false
+Bucket 0: (empty)
+Bucket 1: 4 -> BB
+Bucket 2: (empty)
+Bucket 3: (empty)
+Bucket 4: 18 -> Hello
+Bucket 5: 25 -> AA
+Bucket 6: (empty)
+@@@@@@@
+AA
+Bucket 0: (empty)
+Bucket 1: 4 -> BB
+Bucket 2: (empty)
+Bucket 3: (empty)
+Bucket 4: 18 -> Hello
+Bucket 5: 25 -> WW
+Bucket 6: (empty)
+Hello
+$$$$$$$
+true
+false
+Bucket 0: (empty)
+Bucket 1: 4 -> BB
+Bucket 2: (empty)
+Bucket 3: (empty)
+Bucket 4: 18 -> Hello
+Bucket 5: 25 -> XX
+Bucket 6: (empty)
+=======
+false
+true
+7 2
+Bucket 0: (empty)
+Bucket 1: 4 -> BB
+Bucket 2: (empty)
+Bucket 3: (empty)
+Bucket 4: 18 -> Hello
+Bucket 5: (empty)
+Bucket 6: (empty)
+true
+true
+7 3
+Bucket 0: (empty)
+Bucket 1: 4 -> CC
+Bucket 2: (empty)
+Bucket 3: (empty)
+Bucket 4: 18 -> Hello
+Bucket 5: 11 -> Hello
+Bucket 6: (empty)
+*******
+0
+2
+Bucket 0: (empty)
+Bucket 1: 4 -> CC
+Bucket 2: (empty)
+Bucket 3: (empty)
+Bucket 4: (empty)
+Bucket 5: (empty)
+Bucket 6: (empty)
+#######
+1: false
+2a: true
+2b: true
+3: true
+4: false
+!!!!!!!
+Bucket 0: (empty)
+Bucket 1: (empty)
+Bucket 2: (empty)
+Bucket 3: 3 -> 0
+Bucket 4: 10 -> 50
+Bucket 5: 54 -> 30
+Bucket 6: (empty)
+17 4
+Bucket 0: (empty)
+Bucket 1: (empty)
+Bucket 2: (empty)
+Bucket 3: 3 -> 0
+Bucket 4: 54 -> 30
+Bucket 5: (empty)
+Bucket 6: (empty)
+Bucket 7: 37 -> -15
+Bucket 8: (empty)
+Bucket 9: (empty)
+Bucket 10: 10 -> 50
+Bucket 11: (empty)
+Bucket 12: (empty)
+Bucket 13: (empty)
+Bucket 14: (empty)
+Bucket 15: (empty)
+Bucket 16: (empty)
+=== copy semantics ===
+Bucket 0: (empty)
+Bucket 1: (empty)
+Bucket 2: (empty)
+Bucket 3: 8 -> false
+Bucket 4: 4 -> true
+---
+Bucket 0: (empty)
+Bucket 1: (empty)
+Bucket 2: (empty)
+Bucket 3: 8 -> false
+Bucket 4: 4 -> true
+-----
+Bucket 0: (empty)
+Bucket 1: (empty)
+Bucket 2: (empty)
+Bucket 3: (empty)
+Bucket 4: 4 -> true
+Bucket 5: (empty)
+Bucket 6: (empty)
+Bucket 7: (empty)
+Bucket 8: 8 -> false
+Bucket 9: (empty)
+Bucket 10: 10 -> true
+---
+Bucket 0: (empty)
+Bucket 1: (empty)
+Bucket 2: (empty)
+Bucket 3: (empty)
+Bucket 4: 4 -> true
+Bucket 5: (empty)
+Bucket 6: (empty)
+Bucket 7: (empty)
+Bucket 8: 8 -> false
+Bucket 9: (empty)
+Bucket 10: 10 -> true
+=== operator+ ===
+Bucket 0: (empty)
+Bucket 1: (empty)
+Bucket 2: (empty)
+Bucket 3: 3 -> AA
+Bucket 4: 14 -> DD
+Bucket 5: 5 -> BB
+Bucket 6: (empty)
+Bucket 7: 25 -> CC
+Bucket 8: (empty)
+Bucket 9: (empty)
+Bucket 10: (empty)
