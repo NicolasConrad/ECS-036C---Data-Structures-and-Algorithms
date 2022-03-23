@@ -1,0 +1,31 @@
+u
+r
+i ABC
+u
+r
+s 5
+d 4
+i Hello
+s 2
+i Bye
+w
+i what what
+r
+u
+u
+u
+u
+u
+r
+r
+r
+r
+r
+u
+u
+u
+u
+u
+u
+u
+q

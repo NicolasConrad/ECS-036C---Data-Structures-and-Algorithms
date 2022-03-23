@@ -1,0 +1,17 @@
+In this assignment,
+
+you will implement
+
+a pretty terrible 
+
+text editor in a 
+
+C++ file called
+
+editor.cpp. This
+
+is the only file
+
+that you will
+
+submit.

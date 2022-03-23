@@ -1,0 +1,8 @@
+s 2
+d 2
+i ABC
+d
+i DEF
+i DEFG
+save the_output.txt
+q

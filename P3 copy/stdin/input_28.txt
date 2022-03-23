@@ -1,0 +1,15 @@
+i ABC
+u
+u
+i 10
+i 20
+i 30
+u
+u
+i 40
+u
+save here_we_go.txt
+u
+u
+save here_we_go2.txt
+q

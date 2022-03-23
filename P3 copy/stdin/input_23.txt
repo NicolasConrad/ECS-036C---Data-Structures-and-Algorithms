@@ -1,0 +1,8 @@
+i ABCDEFGH
+s 2
+d 3
+i ABCDEFGH
+s 4
+i XYZ
+save output.txt
+q
